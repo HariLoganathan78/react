@@ -20,7 +20,15 @@ function App() {
         </h1>
 
         <h2>Software Developer</h2>
+
+        <div className="social-icons">
+          <a href="https://github.com/HariLoganathan78">🐱</a>
+          <a href="#">💼</a>
+          <a href="#">📧</a>
+        </div>
       </div>
+
+      <div className="arrow">⌄</div>
 
     </div>
   );
